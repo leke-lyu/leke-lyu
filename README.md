@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am interested in developing molecular epidemiology methods/pipelines to combat current and future pandemics. Massive sequencing effort on SARS-CoV-2 has enabled exceptionally high-resolution investigations of spatial transmission dynamics. However, there is still a massive need for optimized methods to accommodate limited computational resources and generate real-time results. Some of my recent focuses include (1) guiding public health interventions by rebuilding transmission clusters and identifying communities or individuals linked to superspreading, and (2) understanding the demographic composition of a population at risk by integrating demographic and genomic factors through a generalized linear model framework.
+My research focuses on the molecular epidemiology, ecology, and genetic evolution of emerging infectious diseases, particularly SARS-CoV-2.
+I am primarily developing new tools to identify transmission patterns at local scales, enabling real-time analysis of geographic spread.
 
 - 💬 Ask me about: #molecularepidemiology
 - 📫 How to reach me: lekelyu@uga.edu
