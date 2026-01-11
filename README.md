@@ -1,8 +1,12 @@
-### Hi there 👋
+I am a postdoctoral fellow in the Department of Biostatistics and Bioinformatics at Emory University’s Rollins School of Public Health.
 
-My research focuses on the molecular epidemiology, ecology, and genetic evolution of emerging infectious diseases, particularly SARS-CoV-2.
-I am primarily developing new tools to identify transmission patterns at local scales, enabling real-time analysis of geographic spread.
+My research focuses on  
+<span style="color:#1f77b4;">developing advanced computational frameworks</span>  
+<span style="color:#2ca02c;">to understand and predict how infectious diseases evolve and spread across space and time</span>,  
+with the goal of  
+<span style="color:#d62728;">supporting data-driven prevention and control strategies for current and future epidemics</span>.
 
-- 💬 Ask me about: #molecularepidemiology
-- 📫 How to reach me: lekelyu@uga.edu
+- 📫 How to reach me: leke.lyu@emory.edu
+
+
 
